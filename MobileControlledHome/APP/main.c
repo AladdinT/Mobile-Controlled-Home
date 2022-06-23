@@ -8,7 +8,7 @@
 
 #include"../MCAL/DIO/DIO_interface.h"
 #include "../MCAL/UART/UART_interface.h"
-#include "../HAL/LCD_interface.h"
+#include "../HAL/LCD/LCD_interface.h"
 #include "../LIB/bitmath.h"
 #include "../LIB/stdtypes.h"
 #include <util/delay.h>
